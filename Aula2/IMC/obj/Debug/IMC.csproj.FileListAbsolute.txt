@@ -1,0 +1,9 @@
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\IMC\bin\Debug\IMC.exe.config
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\IMC\obj\Debug\IMC.csprojResolveAssemblyReference.cache
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\IMC\bin\Debug\IMC.exe
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\IMC\bin\Debug\IMC.pdb
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\IMC\obj\Debug\IMC.exe
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\IMC\obj\Debug\IMC.pdb
+C:\Users\Samsung\Dropbox\dev-apps4win\Aula2\IMC\bin\Debug\IMC.exe.config
+C:\Users\Samsung\Dropbox\dev-apps4win\Aula2\IMC\obj\Debug\IMC.exe
+C:\Users\Samsung\Dropbox\dev-apps4win\Aula2\IMC\obj\Debug\IMC.pdb

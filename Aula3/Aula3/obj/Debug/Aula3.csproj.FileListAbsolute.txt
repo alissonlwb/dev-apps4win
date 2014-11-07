@@ -1,0 +1,6 @@
+c:\users\samsung\documents\visual studio 2013\Projects\Aula3\Aula3\bin\Debug\Aula3.exe.config
+c:\users\samsung\documents\visual studio 2013\Projects\Aula3\Aula3\bin\Debug\Aula3.exe
+c:\users\samsung\documents\visual studio 2013\Projects\Aula3\Aula3\bin\Debug\Aula3.pdb
+c:\users\samsung\documents\visual studio 2013\Projects\Aula3\Aula3\obj\Debug\Aula3.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2013\Projects\Aula3\Aula3\obj\Debug\Aula3.exe
+c:\users\samsung\documents\visual studio 2013\Projects\Aula3\Aula3\obj\Debug\Aula3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao03\bin\Debug\Questao03.exe.config
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao03\bin\Debug\Questao03.exe
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao03\bin\Debug\Questao03.pdb
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao03\obj\Debug\Questao03.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao03\obj\Debug\Questao03.exe
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao03\obj\Debug\Questao03.pdb

@@ -1,0 +1,6 @@
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\Aula2-2\bin\Debug\Aula2-2.exe.config
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\Aula2-2\bin\Debug\Aula2-2.exe
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\Aula2-2\bin\Debug\Aula2-2.pdb
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\Aula2-2\obj\Debug\Aula2-2.exe
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\Aula2-2\obj\Debug\Aula2-2.pdb
+c:\Users\IFPB\documents\visual studio 2012\Projects\Aula2\Aula2-2\obj\Debug\Aula2-2.csprojResolveAssemblyReference.cache

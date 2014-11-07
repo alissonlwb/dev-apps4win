@@ -1,0 +1,8 @@
+c:\users\allan\documents\visual studio 2012\Projects\ProvaFase1\Questao01\bin\Debug\Questao01.exe.config
+c:\users\allan\documents\visual studio 2012\Projects\ProvaFase1\Questao01\obj\Debug\Questao01.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao01\bin\Debug\Questao01.exe.config
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao01\bin\Debug\Questao01.exe
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao01\bin\Debug\Questao01.pdb
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao01\obj\Debug\Questao01.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao01\obj\Debug\Questao01.exe
+C:\Users\Samsung\Dropbox\dev-apps4win\Prova1\Questao01\obj\Debug\Questao01.pdb
